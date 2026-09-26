@@ -1,0 +1,14 @@
+{
+  "owner": {
+    "username": "rinix-online",
+    "email": "rehansandhi181@gmail.com"
+  },
+  "record": {
+    "CNAME": "rinix-online.github.io",
+    "MX": [
+      "10 mx1.improvmx.com",
+      "20 mx2.improvmx.com"
+    ],
+    "TXT": "v=spf1 include:spf.improvmx.com ~all"
+  }
+}
